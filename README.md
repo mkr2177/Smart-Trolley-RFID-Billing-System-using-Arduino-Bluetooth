@@ -33,3 +33,13 @@ An Arduino-based **RFID Smart Trolley System** designed for supermarkets or smar
    - **Add**: Adds to cart and updates total.
    - **Remove**: Deletes from cart and updates total.
 4. 📡 The total and actions are also sent to a Bluetooth terminal (e.g., Serial Bluetooth Terminal app).
+
+
+## 📸 Demo Screenshots
+
+### 🖼️ App Preview
+
+![Screenshot 1](Screenshot%20(1312).png)
+![Screenshot 2](Screenshot%20(1313).png)
+![Screenshot 3](Screenshot%20(1314).png)
+
